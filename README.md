@@ -1,4 +1,4 @@
-#MSUTM-main-theme
+# MSUTM-main-theme
 
 MSUTM-main-theme is a dynamic WordPress theme to fulfill university needs.
 
