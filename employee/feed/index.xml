@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Employees - University website</title>
+	<atom:link href="./index.html?simply_static_page=920" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Apply to our university!</description>
+	<lastBuildDate>Fri, 20 Jan 2023 08:56:13 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>./../../wp-content/uploads/2023/01/cropped-508970-32x32.png</url>
+	<title>Employees - University website</title>
+	<link>./../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Ivanov Ivan Ivanovich</title>
+		<link>./../ivanov-ivan-ivanovich/index.html</link>
+		
+		<dc:creator><![CDATA[university-admin]]></dc:creator>
+		<pubDate>Fri, 20 Jan 2023 08:41:03 +0000</pubDate>
+				<guid isPermaLink="false">./../../index.html?post_type=employee&#038;p=250</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Sosina Natalya Nikolaevna</title>
+		<link>./../sosina-natalya-nikolaevna/index.html</link>
+		
+		<dc:creator><![CDATA[university-admin]]></dc:creator>
+		<pubDate>Thu, 29 Dec 2022 21:01:18 +0000</pubDate>
+				<guid isPermaLink="false">./../../index.html?post_type=employee&#038;p=81</guid>
+
+					<description><![CDATA[Information]]></description>
+										<content:encoded><![CDATA[
+<p>Information</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Ivanova Valentina Nikolaevna</title>
+		<link>./../ivanova-valentina-nikolaevna/index.html</link>
+		
+		<dc:creator><![CDATA[university-admin]]></dc:creator>
+		<pubDate>Thu, 29 Dec 2022 21:01:02 +0000</pubDate>
+				<guid isPermaLink="false">./../../index.html?post_type=employee&#038;p=80</guid>
+
+					<description><![CDATA[Professor Professor Professor Professor Professor Professor Professor Professor Professor Professor Professor Professor Professor Professor Professor...]]></description>
+										<content:encoded><![CDATA[
+<p>Professor Professor Professor Professor Professor Professor Professor Professor Professor Professor Professor Professor Professor Professor Professor Professor Professor Professor Professor Professor Professor Professor Professor Professor Professor Professor Professor Professor Professor Professor </p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Announcements - University website</title>
+	<atom:link href="./index.html?simply_static_page=970" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Apply to our university!</description>
+	<lastBuildDate>Fri, 20 Jan 2023 09:46:31 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2023/01/cropped-508970-32x32.png</url>
+	<title>Announcements - University website</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Announcement 6</title>
+		<link>./../../../2023/01/15/beware-2/index.html</link>
+					<comments>./../../../2023/01/15/beware-2/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[university-admin]]></dc:creator>
+		<pubDate>Sun, 15 Jan 2023 18:38:17 +0000</pubDate>
+				<category><![CDATA[Announcements]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=179</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2023/01/15/beware-2/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Announcement 5</title>
+		<link>./../../../2023/01/15/hmmm/index.html</link>
+					<comments>./../../../2023/01/15/hmmm/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[university-admin]]></dc:creator>
+		<pubDate>Sun, 15 Jan 2023 17:59:20 +0000</pubDate>
+				<category><![CDATA[Announcements]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=177</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2023/01/15/hmmm/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Announcement 4</title>
+		<link>./../../../2023/01/10/adv3/index.html</link>
+					<comments>./../../../2023/01/10/adv3/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[university-admin]]></dc:creator>
+		<pubDate>Tue, 10 Jan 2023 11:25:06 +0000</pubDate>
+				<category><![CDATA[Announcements]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=128</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2023/01/10/adv3/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Announcement 3</title>
+		<link>./../../../2023/01/10/adv2/index.html</link>
+					<comments>./../../../2023/01/10/adv2/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[university-admin]]></dc:creator>
+		<pubDate>Tue, 10 Jan 2023 11:24:57 +0000</pubDate>
+				<category><![CDATA[Announcements]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=126</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2023/01/10/adv2/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Announcement 2</title>
+		<link>./../../../2023/01/10/adv1/index.html</link>
+					<comments>./../../../2023/01/10/adv1/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[university-admin]]></dc:creator>
+		<pubDate>Tue, 10 Jan 2023 11:24:49 +0000</pubDate>
+				<category><![CDATA[Announcements]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=124</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2023/01/10/adv1/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Announcement 1</title>
+		<link>./../../../2023/01/10/beware/index.html</link>
+					<comments>./../../../2023/01/10/beware/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[university-admin]]></dc:creator>
+		<pubDate>Tue, 10 Jan 2023 08:20:06 +0000</pubDate>
+				<category><![CDATA[Announcements]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=114</guid>
+
+					<description><![CDATA[Announcement]]></description>
+										<content:encoded><![CDATA[
+<p>Announcement</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2023/01/10/beware/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

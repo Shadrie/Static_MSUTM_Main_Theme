@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Events - University website</title>
+	<atom:link href="./index.html?simply_static_page=978" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Apply to our university!</description>
+	<lastBuildDate>Fri, 20 Jan 2023 09:43:30 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2023/01/cropped-508970-32x32.png</url>
+	<title>Events - University website</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Event 1</title>
+		<link>./../../../2023/01/20/open-doors-event/index.html</link>
+					<comments>./../../../2023/01/20/open-doors-event/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[university-admin]]></dc:creator>
+		<pubDate>Thu, 19 Jan 2023 22:50:42 +0000</pubDate>
+				<category><![CDATA[Events]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=190</guid>
+
+					<description><![CDATA[Open Doors even will be held on January 23 in the main building.]]></description>
+										<content:encoded><![CDATA[
+<p>Open Doors even will be held on January 23 in the main building.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2023/01/20/open-doors-event/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
